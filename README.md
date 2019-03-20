@@ -6,6 +6,12 @@ image for a Rails 1.2 app.
 
 **TODO:** Add nginx or Apache production server (must use Passenger 3.0.21)
 
+## WARNING:
+
+I hope this goes without saying, but this is not to be used in production,
+or for any new development. Its sole purpose is for running legacy code,
+and to verify that it works correctly when upgraded.
+
 ## Gems
 
 Comes with the following pre-installed:
